@@ -26,4 +26,4 @@ def tablaMultiplicar(num, valor=10):
 numero=cargarValor()
 print(f"Tabla de Multiplicar de {numero}")
 print("*****************************")
-print(tablaMultiplicar(numero, 5))
+print(tablaMultiplicar(numero))
